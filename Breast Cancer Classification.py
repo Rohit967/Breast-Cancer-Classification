@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Sept  30 03:49:12 2018
-
-@author name: Ragavander Rohit Walthaty
-          ID: 999992844
-"""
 
 '''
 # Supervised K-Nearest Neighbours classification with Breast Cancer Dataset
